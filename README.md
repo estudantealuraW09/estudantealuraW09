@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 <!--
-**estudantealuraW09/estudantealuraW09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**estudantealuraW09/estudantealuraW09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
+
+
+currículo 
+https://www.canva.com/design/DAGN3zEJquo/E8qcAQvt0oThIat4W8t5Cw/edit?utm_content=DAGN3zEJquo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
