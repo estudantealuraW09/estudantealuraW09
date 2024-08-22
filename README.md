@@ -1,6 +1,10 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💙
 
-<!--
+Estou desenvolvendo scratch e javascript, além do alura
+
+![](https://media1.tenor.com/m/blSx3NBZMkcAAAAd/tanjiro-kamado.gif)
+
+
 **estudantealuraW09/estudantealuraW09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 
