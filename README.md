@@ -1,5 +1,6 @@
 ## Boas vindas ao meu perfil💙
 
+meu nome é wesley
 Estou desenvolvendo scratch e javascript, além do alura
 
 ![](https://media1.tenor.com/m/blSx3NBZMkcAAAAd/tanjiro-kamado.gif)
